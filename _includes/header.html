@@ -1,0 +1,29 @@
+<header class="header">
+
+  <div class="overlay">
+
+    <div class="container">
+
+      <h1 class="title">
+        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </h1>
+
+      <nav class="navbar">
+        <a href="#" class="menu-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+
+      </nav>
+    </div>
+
+    {% if page.slug == 'home' %}
+      <h2 class="txt-center">
+        Compartilhando <strong>conhecimento</strong>!
+      </h2>
+    {% endif %}
+
+  </div>
+
+</header>
