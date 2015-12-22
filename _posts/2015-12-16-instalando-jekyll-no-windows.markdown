@@ -2,7 +2,8 @@
 layout: post
 title:  "Instalando o Jekyll no windows!"
 date:   2015-12-16 03:00:00
-categories: jekyll
+category: programming
+tags: [jekyll]
 comments: true
 ---
 
