@@ -3,14 +3,14 @@ title: codeHEAD
 email: filipebsb04@gmail.com
 description: Compartilhando conhecimento!
 baseurl: "" 
-url: "http://filipebsb04.github.io"
+url: "http://filipe-caf.github.io"
 
 author:
   name     : 'Filipe Fernandes'
   email    : filipebsb04@gmail.com
-  url      : http://filipebsb04.github.io
-  facebook : http://facebook.com/filipebsb04
-  github   : https://github.com/filipebsb04
+  url      : http://filipe-caf.github.io
+  facebook : http://facebook.com/filipe.caf
+  github   : https://github.com/filipe-caf
 
 
 disqus_shortname: "codeHEAD"
